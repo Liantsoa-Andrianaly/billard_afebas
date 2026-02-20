@@ -1,3 +1,8 @@
+<?php
+
+session_start();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -61,7 +66,7 @@
           <li><a href="tableautournoi.php">Tableau du tournoi</a></li>
           <li><a href="plansalle.php">Plan de la salle</a></li>
           <!--li><a href="vuebillard.php">Vue des billards</a></li-->
-          <li><a href="../../index.php">Se connecter</a></li>
+          <li><a href="">Se connecter</a></li>
 
           <div class="search-contrainer">
             <div class="sidebar">
